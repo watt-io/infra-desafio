@@ -29,7 +29,7 @@ O teste é dividido em vários níveis de dificuldade, permitindo que você esco
 - Faça os commits de suas alterações ``` git commit -m "[ADD] Funcionalidade" ```
 - Envie a branch para seu repositório ``` git push origin feature/ana ```
 - Navegue até o [Github](https://github.com/), crie seu Pull Request apontando para a branch **```main```**
-- Atualize o README.md descrevendo como subir sua aplicação
+- Atualize o README.md descrevendo como subir e rodar sua aplicação
 
 #### Dúvidas?
 
